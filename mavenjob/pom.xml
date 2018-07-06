@@ -64,7 +64,7 @@
             <fork>true</fork>
         </configuration>
     </plugin>
-</plugins>
+     </plugins>
 		
 	</build>
   
